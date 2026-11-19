@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="en_US" dataSources="ds32" resourceIdentifier="'cas-shared-default','Public','FLOODALERTS_UPDATE_DMT','en_US'" tableModifiedTimeStamp="2025-03-06T18:50:13.791Z">
+            <columns>
+                <column dataType="string" label="alertType" xref="alertType"/>
+                <column dataType="string" label="Water Level" xref="Water Level"/>
+                <column dataType="string" label="alertSeverity" xref="alertSeverity"/>
+                <column dataType="string" label="alertMessage" xref="alertMessage"/>
+                <column dataType="string" label="deviceId" xref="deviceId"/>
+                <column dataType="string" label="region" xref="region"/>
+                <column dataType="datetime" format="DATETIME19" label="msr_dttm" xref="msr_dttm"/>
+                <column dataType="date" format="MMDDYY8" label="msr_date" xref="msr_date"/>
+                <column dataType="double" format="TIME8" label="msr_time" xref="msr_time"/>
+                <column dataType="date" format="DATE9" label="msr_month" xref="msr_month"/>
+                <column dataType="double" format="BEST12." label="Lat" xref="Lat"/>
+                <column dataType="double" format="BEST12." label="Long" xref="Long"/>
+                <column dataType="string" label="W" xref="W"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds130" resourceIdentifier="'cas-shared-default','Public','ALERT_GRAPH','en_US'" tableModifiedTimeStamp="2025-03-06T18:52:53.214Z">
+            <columns>
+                <column dataType="double" format="TIME8" label="Time" xref="Time"/>
+                <column dataType="double" format="BEST12." label="# of Ongoing Alerts" xref="# of Ongoing Alerts"/>
+                <column dataType="double" format="BEST12." label="# of New Alerts" xref="# of New Alerts"/>
+                <column dataType="double" format="BEST12." label="# of Resolved Alerts" xref="# of Resolved Alerts"/>
+                <column dataType="double" format="BEST12." label="# of Ongoing Critical Alerts" xref="# of Ongoing Critical Alerts"/>
+                <column dataType="double" format="BEST12." label="# of New Critical Alerts" xref="# of New Critical Alerts"/>
+                <column dataType="double" format="BEST12." label="# of Resolved Critical Alerts" xref="# of Resolved Critical Alerts"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds273" resourceIdentifier="'cas-shared-default','Public','LANDING_PAGE','en_US'" tableModifiedTimeStamp="2025-03-06T18:53:59.951Z">
+            <columns>
+                <column dataType="double" format="BEST12." label="# of Gauge Sensors" xref="# of Gauge Sensors"/>
+                <column dataType="double" format="BEST12." label="# of Rain Sensors" xref="# of Rain Sensors"/>
+                <column dataType="double" format="BEST12." label="# of Ongoing Alerts" xref="# of Ongoing Alerts"/>
+                <column dataType="double" format="BEST12." label="# of CCTV Camera's" xref="# of CCTV Camera's"/>
+                <column dataType="double" format="PERCENT12." label="Sensor Maintainance" xref="Sensor Maintainance"/>
+                <column dataType="double" format="BEST12." label="# of Citizen Complaints" xref="# of Citizen Complaints"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds329" resourceIdentifier="'cas-shared-default','Public','ALERT_TABLE','en_US'" tableModifiedTimeStamp="2025-03-06T18:55:49.023Z">
+            <columns>
+                <column dataType="string" label="Region" xref="Region"/>
+                <column dataType="double" format="BEST12." label="# of Alerts" xref="# of Alerts"/>
+                <column dataType="double" format="BEST12." label="# of Critical Alerts" xref="# of Critical Alerts"/>
+                <column dataType="double" format="BEST12." label="# of Ongoing Alerts" xref="# of Ongoing Alerts"/>
+                <column dataType="double" format="BEST12." label="# of Closed Alerts" xref="# of Closed Alerts"/>
+                <column dataType="double" format="BEST12." label="# of New Alerts for Past 4 Hours" xref="# of New Alerts for Past 4 Hours"/>
+                <column dataType="double" format="BEST12." label="# of Closed Alerts for Past 4 Hours" xref="# of Closed Alerts for Past 4 Hours"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds414" resourceIdentifier="'cas-shared-default','Public','DRAINAGE_DUBAI','en_US'" tableModifiedTimeStamp="2025-03-06T18:56:32.464Z">
+            <columns>
+                <column dataType="string" label="region_name" xref="region_name"/>
+                <column dataType="string" label="sensor_name" xref="sensor_name"/>
+                <column dataType="string" label="time_period" xref="time_period"/>
+                <column dataType="double" format="BEST12." label="num_pumps" xref="num_pumps"/>
+                <column dataType="double" format="BEST12." label="rain_amount_cubic_meters" xref="rain_amount_cubic_meters"/>
+                <column dataType="double" format="BEST12." label="og_rain_amount_cubic_meters" xref="og_rain_amount_cubic_meters"/>
+                <column dataType="double" format="BEST12." label="remaining_rain_after_1_hour" xref="remaining_rain_after_1_hour"/>
+                <column dataType="double" format="BEST12." label="hours_to_eliminate_rain" xref="hours_to_eliminate_rain"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds659" resourceIdentifier="'cas-shared-default','Public','DMT_RAIN_MINUTE_FINAL','en_US'" tableModifiedTimeStamp="2025-03-06T18:57:21.952Z">
+            <columns>
+                <column dataType="double" format="BEST12." label="A" xref="A"/>
+                <column dataType="string" label="test" xref="test"/>
+                <column dataType="double" format="BEST12." label="precipInches" xref="precipInches"/>
+                <column dataType="string" label="deviceId" xref="deviceId"/>
+                <column dataType="string" label="deviceLabel" xref="deviceLabel"/>
+                <column dataType="string" label="region" xref="region"/>
+                <column dataType="date" format="DATE9" label="msr_date" xref="msr_date"/>
+                <column dataType="double" format="TIME8" label="msr_time" xref="msr_time"/>
+                <column dataType="double" format="BEST12." label="latitude" xref="latitude"/>
+                <column dataType="double" format="BEST12." label="longitude" xref="longitude"/>
+                <column dataType="datetime" format="DATETIME19" label="msr_dttm" xref="msr_dttm"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds1054" resourceIdentifier="'cas-shared-default','Public','DUBAI_WATER_LEVEL_FINAL','en_US'" tableModifiedTimeStamp="2025-03-06T19:40:14.191Z">
+            <columns>
+                <column dataType="double" format="BEST12." label="Var1" xref="Var1"/>
+                <column dataType="string" label="msr_dttm" xref="msr_dttm"/>
+                <column dataType="double" format="BEST12." label="NAVD88" xref="NAVD88"/>
+                <column dataType="double" format="BEST12." label="actual" xref="actual"/>
+                <column dataType="double" format="BEST12." label="forecast" xref="forecast"/>
+                <column dataType="double" format="BEST12." label="forecast_lo" xref="forecast_lo"/>
+                <column dataType="double" format="BEST12." label="forecast_hi" xref="forecast_hi"/>
+                <column dataType="string" label="deviceId" xref="deviceId"/>
+                <column dataType="string" label="deviceLabel" xref="deviceLabel"/>
+                <column dataType="string" label="region" xref="region"/>
+                <column dataType="string" label="msr_date" xref="msr_date"/>
+                <column dataType="string" label="msr_time" xref="msr_time"/>
+                <column dataType="double" format="BEST12." label="actionFt" xref="actionFt"/>
+                <column dataType="double" format="BEST12." label="minorFt" xref="minorFt"/>
+                <column dataType="double" format="BEST12." label="moderateFt" xref="moderateFt"/>
+                <column dataType="double" format="BEST12." label="majorFt" xref="majorFt"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds1224" resourceIdentifier="'cas-shared-default','Public','HISTORICAL DATA','en_US'" tableModifiedTimeStamp="2025-03-06T18:59:34.383Z">
+            <columns>
+                <column dataType="string" label="Region" xref="Region"/>
+                <column dataType="string" label="deviceid" xref="deviceid"/>
+                <column dataType="double" format="BEST12." label="Average stage (Ft)" xref="Average stage (Ft)"/>
+                <column dataType="datetime" format="DATETIME19" label="datetime" xref="datetime"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds3580" resourceIdentifier="'cas-shared-default','Public','TABLE_ABU_DHABI_PASTCAST_MAP_DATA','en_US'" tableModifiedTimeStamp="2025-03-06T18:34:12.477Z">
+            <columns>
+                <column dataType="double" format="BEST12." label="cell_id" xref="cell_id"/>
+                <column dataType="datetime" format="DATETIME19" label="datetime" xref="datetime"/>
+                <column dataType="double" format="BEST12." label="ht_forecast" xref="ht_forecast"/>
+                <column dataType="double" format="BEST12." label="latitude" xref="latitude"/>
+                <column dataType="double" format="BEST12." label="longitude" xref="longitude"/>
+                <column dataType="string" label="region" xref="region"/>
+                <column dataType="string" label="deviceid" xref="deviceid"/>
+                <column dataType="string" label="floodalertcolor" xref="floodalertcolor"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>

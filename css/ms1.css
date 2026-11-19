@@ -1,0 +1,627 @@
+
+
+#ve380 .paragraph1 {
+  text-align: center;
+}
+#ve380 .span1 {
+  font-size: 22pt;
+}
+#ve3629 .GraphDataStyle7 {
+  marker-symbol: homedownfilled;
+}
+#ve359 .LabelText {
+  font-family: AvenirNext;
+}
+#ve1332 .Table {
+  padding-top: 16px;
+  row-color: #E9ECEF;
+  color: #000000;
+  alt-row-color: #E9ECEF;
+}
+#ve3629 .GraphDataStyle4 {
+  marker-symbol: diamondfilled;
+}
+.Report {
+  background-color: #FFFFFF;
+}
+#ve3629 .GraphDataStyle3 {
+  marker-symbol: squarefilled;
+}
+#ve3629 .GraphDataStyle6 {
+  marker-symbol: triangledownfilled;
+}
+#ve3629 .GraphDataStyle5 {
+  marker-symbol: starfilled;
+}
+#ve349 .ReportElementContainer {
+  padding: 25px;
+}
+#ve3629 .GraphDataStyle2 {
+  marker-symbol: circlefilled;
+}
+#ve1209 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3629 .GraphDataStyle1 {
+  marker-symbol: trianglefilled;
+}
+#cd8939 .If {
+  background-color: #CCA937;
+  transparency: 0.2;
+}
+#ve5034 .ReportElementContainer {
+  padding: 0px;
+}
+#ve1363 .span1 {
+  font-size: 22pt;
+}
+#ve370 .tableColumnbi264 {
+  fill-color: #B0B7C2;
+}
+.GraphDataStyleDefault {
+  marker-color: #B0B7C2;
+  text-color: #B0B7C2;
+  fill-color: #B0B7C2;
+  line-color: #B0B7C2;
+}
+#ve370 .tableColumnbi263 {
+  fill-color: #B0B7C2;
+}
+#ve370 .tableColumnbi260 {
+  fill-color: #B0B7C2;
+}
+#ve370 .tableColumnbi262 {
+  fill-color: #B0B7C2;
+}
+#ve370 .tableColumnbi261 {
+  fill-color: #B0B7C2;
+}
+#ve370 .Header {
+  background-color: #061728;
+  color: #E9ECEF;
+  transparency: 0.1;
+  font-size: 10pt;
+  text-align: center;
+}
+#cd710 .If {
+  color: #16976D;
+}
+#ve6791 .span3 {
+  font-weight: bold;
+}
+#ve3830 .ReportElementContainer {
+  padding: 0px;
+}
+.TwoColorAltRamp {
+  fill-gradient-start-color: #191B26;
+  fill-gradient-end-color: #000000;
+}
+#ve596 .styleForTitle_span5 {
+  font-size: 10pt;
+}
+#ve2458 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2560 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6791 .ReportElementContainer {
+  padding: 0px;
+}
+#ve4788 .ReportElementContainer {
+  padding: 0px;
+}
+#ve4816 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6791 .span1 {
+  font-size: 14pt;
+}
+#ve6791 .span2 {
+  color: #FFAE70;
+  font-size: 48pt;
+}
+#cd4225 .If {
+  color: #84414B;
+}
+#ve406 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6796 .ReportElementContainer {
+  padding: 0px;
+}
+#cd4200 .If {
+  color: #2470AD;
+}
+#ve5048 .Header {
+  background-color: #21364A;
+  text-align: left;
+}
+#ve4834 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6791 .paragraph3 {
+  text-align: center;
+}
+#cd8937 .If {
+  background-color: #FF8224;
+  transparency: 0.2;
+}
+#ve6791 .paragraph2 {
+  text-align: center;
+}
+#ve6791 .paragraph1 {
+  text-align: center;
+}
+#cd712 .If {
+  color: #98863C;
+}
+#ve5031 .span4 {
+  font-weight: bold;
+}
+#ve5031 .span3 {
+  color: #33A3FF;
+  font-size: 16pt;
+}
+#cd8943 .If {
+  background-color: #B14C51;
+  transparency: 0.2;
+}
+#ve1239 .GraphDataStyleDefault {
+  marker-color: #98863C;
+  text-color: #98863C;
+  line-color: #98863C;
+}
+#ve2576 .ReportElementContainer {
+  padding: 0px;
+}
+#ve359 .GraphDataStyleDefault {
+  marker-color: #B14C51;
+  text-color: #B14C51;
+  line-color: #B14C51;
+}
+#ve526 .styleForTitle_span3 {
+  font-size: 10pt;
+}
+#ve6732 .paragraph1 {
+  text-align: center;
+}
+#ve6796 .paragraph2 {
+  text-align: center;
+}
+#ve6796 .paragraph3 {
+  text-align: center;
+}
+#ve6796 .paragraph1 {
+  text-align: center;
+}
+#ve2557 .paragraph2 {
+  text-align: center;
+}
+#cd714 .If {
+  color: #84414B;
+}
+#ve2557 .paragraph1 {
+  text-align: center;
+}
+#ve6732 .paragraph2 {
+  text-align: center;
+}
+#ve349 .GridLines {
+  line-color: #F9EDC6;
+}
+#ve5031 .span2 {
+  font-weight: bold;
+}
+#ve5031 .span1 {
+  font-size: 16pt;
+}
+#cd4202 .If {
+  color: #FF8224;
+}
+#ve3629 .GraphDataStyleDefault {
+  marker-symbol: trianglefilled;
+}
+#ve6757 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6727 .GraphSkin {
+  data-skin: MATTE;
+}
+#ve359 .GridLines {
+  line-color: #F9EDC6;
+}
+#ve3703 .ReportElementContainer {
+  padding: 0px;
+}
+#ve349 .GraphDataStyle1 {
+  marker-color: #B14C51;
+  text-color: #B14C51;
+  line-color: #B14C51;
+}
+#ve3629 .ReportElementContainer {
+  padding: 0px;
+}
+#ve4784 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5035 .ReportElementContainer {
+  padding: 0px;
+}
+#vi4792 .ReportPagePadding {
+  padding: 0px;
+}
+.ReportElementContainer {
+  padding: 0px;
+}
+#cd8945 .If {
+  background-color: #16976D;
+  transparency: 0.2;
+}
+#ve3662 .KeyFrameValue {
+  horizontal-alignment: center;
+  vertical-alignment: top;
+}
+#ve5048 .styleForTitle_paragraph1 {
+  text-align: center;
+}
+#ve6796 .span2 {
+  color: #FFAE70;
+  font-size: 48pt;
+}
+#ve1312 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6796 .span3 {
+  font-weight: bold;
+}
+#cd4198 .If {
+  color: #33A3FF;
+}
+#ve6796 .span1 {
+  font-size: 14pt;
+}
+#ve6781 .span3 {
+  font-weight: bold;
+}
+#ve6781 .span2 {
+  color: #FFAE70;
+  font-size: 48pt;
+}
+#ve349 .GraphDataStyleDefault {
+  marker-color: #B14C51;
+  text-color: #B14C51;
+  line-color: #B14C51;
+}
+#cd4204 .If {
+  color: #B14C51;
+}
+#ve6781 .span1 {
+  font-size: 14pt;
+}
+#ve531 .span1 {
+  font-size: 12pt;
+}
+#ve531 .span2 {
+  font-weight: bold;
+}
+#ve1212 .ReportElementContainer {
+  padding: 0px;
+}
+#ve493 .span1 {
+  font-size: 12pt;
+}
+#cd6966 .If {
+  color: #FF8224;
+}
+#ve493 .span2 {
+  font-weight: bold;
+}
+#ve349 .Missing {
+  color: #FFFFFF;
+  marker-color: #FFFFFF;
+  text-color: #FFFFFF;
+  fill-color: #FFFFFF;
+  line-color: #FFFFFF;
+}
+#ve4883 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2557 .ReportElementContainer {
+  padding: 0px;
+}
+#ve370 .Table {
+  padding-top: 16px;
+  row-color: #081B2D;
+  horizontal-line-style: none;
+  color: #F9EDC6;
+  vertical-line-style: solid;
+  transparency: 0.7;
+  alt-row-color: #545B66;
+}
+#ve6781 .ReportElementContainer {
+  padding: 0px;
+}
+#ve359 .ValueText {
+  font-family: AvenirNext;
+}
+#ve4814 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6732 .span4 {
+  font-weight: bold;
+}
+#ve370 .ReportElementContainer {
+  padding: 25px;
+}
+#ve1314 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6732 .span2 {
+  font-weight: bold;
+}
+#ve601 .span1 {
+  font-size: 12pt;
+}
+#ve6732 .span3 {
+  color: #33A3FF;
+  font-size: 16pt;
+}
+#ve601 .span2 {
+  font-weight: bold;
+}
+#ve6732 .span1 {
+  font-size: 16pt;
+}
+#cd3656 .If {
+  color: #2470AD;
+}
+#ve359 .TipFill {
+  fill-color: #081B2D;
+}
+#ve426 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2522 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5048 .styleForTitle_span1 {
+  font-weight: bold;
+}
+#cd716 .If {
+  color: #434FAC;
+}
+#ve3669 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3662 .GraphDataStyle1 {
+  marker-symbol: hexagonfilled;
+}
+#ve349 .GraphSkin {
+  data-skin: PRESSED;
+}
+#ve359 .GraphSkin {
+  data-skin: PRESSED;
+}
+#ve3662 .GraphDataStyle3 {
+  marker-symbol: squarefilled;
+}
+#ve1308 .ReportElementContainer {
+  padding: 0px;
+}
+#ve3662 .GraphDataStyle2 {
+  marker-symbol: circlefilled;
+}
+#ve3662 .GraphDataStyle5 {
+  marker-symbol: diamondfilled;
+}
+#ve349 .HeaderFill {
+  transparency: 0;
+  fill-color: #FFFFFF;
+}
+#ve3662 .GraphDataStyle4 {
+  marker-symbol: trianglefilled;
+}
+#ve450 .styleForTitle_span2 {
+  font-size: 10pt;
+}
+#ve3662 .GraphDataStyle7 {
+  marker-symbol: triangledownfilled;
+}
+#ve3662 .GraphDataStyle6 {
+  marker-symbol: starfilled;
+}
+#ve349 .TipText {
+  text-color: #FFFFFF;
+}
+#ve6781 .paragraph1 {
+  text-align: center;
+}
+#ve6781 .paragraph3 {
+  text-align: center;
+}
+#ve6781 .paragraph2 {
+  text-align: center;
+}
+#ve561 .styleForTitle_span4 {
+  font-size: 10pt;
+}
+#ve5567 .span11 {
+  font-weight: bold;
+}
+#cd3658 .If {
+  color: #FF8224;
+}
+#ve5567 .span10 {
+  color: #ffffff;
+  font-size: 10.5pt;
+}
+#ve6768 .ReportElementContainer {
+  padding: 0px;
+}
+#cd3660 .If {
+  color: #B14C51;
+}
+.GraphDataStyle1 {
+  marker-color: #B0B7C2;
+  text-color: #B0B7C2;
+  fill-color: #B0B7C2;
+  line-color: #B0B7C2;
+}
+#ve359 .GraphDataStyle1 {
+  marker-color: #B14C51;
+  text-color: #B14C51;
+  line-color: #B14C51;
+}
+#ve6727 .GraphDataStyleDefault {
+  marker-color: #FFFFFF;
+  text-color: #FFFFFF;
+  fill-color: #FFFFFF;
+  line-color: #FFFFFF;
+}
+#ve359 .GraphDataStyle2 {
+  marker-color: #FFCC32;
+  text-color: #FFCC32;
+  line-color: #FFCC32;
+}
+#ve2557 .span1 {
+  font-size: 16pt;
+}
+#ve2557 .span2 {
+  font-weight: bold;
+}
+#ve349 .TipFill {
+  fill-color: #081B2D;
+}
+#ve2557 .span3 {
+  color: #33A3FF;
+  font-size: 16pt;
+}
+#ve2557 .span4 {
+  font-weight: bold;
+}
+#cd6962 .If {
+  color: #B14C51;
+}
+#ve1310 .ReportElementContainer {
+  padding: 0px;
+}
+#ve4883 .styleForTitle_paragraph4 {
+  text-align: center;
+}
+#ve3667 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6727 .GraphDataStyle1 {
+  marker-color: #FFFFFF;
+  text-color: #FFFFFF;
+  fill-color: #FFFFFF;
+  line-color: #FFFFFF;
+}
+#ve413 .ReportElementContainer {
+  padding: 0px;
+}
+#ve6727 .GraphDataStyle2 {
+  marker-color: #FFFFFF;
+  text-color: #FFFFFF;
+  fill-color: #FFFFFF;
+  line-color: #FFFFFF;
+}
+#ve1332 .Header {
+  background-color: #21364A;
+  text-align: left;
+}
+#ve359 .ReportElementContainer {
+  padding: 25px;
+}
+#ve1239 .GraphDataStyle1 {
+  marker-color: #98863C;
+  text-color: #98863C;
+  line-color: #98863C;
+}
+#cd3695 .If {
+  color: #33A3FF;
+}
+#ve4866 .styleForTitle_paragraph3 {
+  text-align: center;
+}
+#ve5031 .paragraph1 {
+  text-align: center;
+}
+#ve5031 .paragraph2 {
+  text-align: center;
+}
+#ve5048 .Table {
+  padding-top: 16px;
+  row-color: #E9ECEF;
+  color: #000000;
+  alt-row-color: #E9ECEF;
+}
+#ve6708 .ReportElementContainer {
+  padding: 0px;
+}
+#cd6964 .If {
+  color: #2C8AD6;
+}
+#ve4866 .ReportElementContainer {
+  padding: 0px;
+}
+#ve4781 .Container {
+  border-width: 0px;
+  border-color: #FFFFFF;
+}
+#ve566 .span2 {
+  font-weight: bold;
+}
+#ve566 .span1 {
+  font-size: 12pt;
+}
+#ve5567 .span5 {
+  font-weight: bold;
+}
+#ve3662 .GraphDataStyleDefault {
+  marker-symbol: hexagonfilled;
+}
+#ve5567 .span6 {
+  color: #ffffff;
+  font-size: 10.5pt;
+}
+#ve5567 .span3 {
+  font-weight: bold;
+}
+#ve359 .DataText {
+  font-family: AvenirNext;
+}
+#ve5567 .span4 {
+  color: #ffffff;
+  font-size: 10.5pt;
+}
+#ve4781 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5567 .span9 {
+  font-weight: bold;
+}
+#ve5567 .span7 {
+  font-weight: bold;
+}
+.TwoColorRamp {
+  fill-gradient-start-color: #191B26;
+  fill-gradient-end-color: #000000;
+}
+#ve5567 .span8 {
+  color: #ffffff;
+  font-size: 10.5pt;
+}
+#ve5567 .span1 {
+  font-weight: bold;
+}
+#ve5567 .span2 {
+  color: #ffffff;
+  font-size: 10.5pt;
+}
+#cd3654 .If {
+  color: #33A3FF;
+}
+
+			
